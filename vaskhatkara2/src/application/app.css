@@ -1,0 +1,16 @@
+.backgroundcolor{
+	-fx-background-color: linear-gradient(to right, #eb2adb, #972aeb);
+}
+.buton{
+	-fx-background-radius: 50px;
+	-fx-border-color: #ffffff;
+	-fx-border-width:2px;
+	-fx-border-radius: 50px;
+}
+
+.buton2{
+	-fx-background-radius: 50px;
+	-fx-border-color: #ffffff;
+	-fx-border-width:2px;
+	-fx-border-radius: 50px;
+}
