@@ -17,7 +17,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="C:/Users/global/eclipse-workssspace/copy/src/bcrypt-0.10.2.jar">
+	<classpathentry kind="lib" path="C:/Users/global/git/repository/vaskhatkara2/bcrypt-0.10.2.jar">
 		<attributes>
 			<attribute name="module" value="true"/>
 		</attributes>
@@ -27,7 +27,7 @@
 			<attribute name="module" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Vashatkara/src/mysql-connector-j-8.0.33.jar"/>
+	<classpathentry kind="lib" path="mysql-connector-j-8.0.33.jar"/>
 	<classpathentry kind="lib" path="jfoenix-8.0.3.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="jar:file:/C:/Users/global/eclipse-workssspace/vaskhatkara2/jfoenix-8.0.3-javadoc.jar!/"/>
