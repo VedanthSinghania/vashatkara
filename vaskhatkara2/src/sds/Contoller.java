@@ -11,7 +11,6 @@ import javafx.fxml.FXMLLoader;
 
 
 public class Contoller implements javafx.fxml.Initializable {
-//hak
 	@SuppressWarnings("exports")
 	@javafx.fxml.FXML
 	public JFXHamburger icon_Hamburger;
@@ -20,7 +19,7 @@ public class Contoller implements javafx.fxml.Initializable {
 	public JFXDrawer navig_pane_drawer;
 	private boolean is_arow_left=false;
 	 String username;
-	
+	//sfudhusghdgyfhvguydx
 	
 	
 	public void setUsername(String username) {
